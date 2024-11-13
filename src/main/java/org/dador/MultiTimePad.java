@@ -1,7 +1,8 @@
 package org.dador;
 
 /**
- *
+ *Mame Diarra SEYYDI
+ Alioune Balde
  */
 public class MultiTimePad {
 
